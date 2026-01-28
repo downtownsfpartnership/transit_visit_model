@@ -6,7 +6,6 @@ This project analyzes how regional transit activity and bridge crossings influen
 
 We use statistical and machine learning approaches to model visitor counts as a function of transit ridership and bridge traffic, while accounting for seasonal variation:
 
-- **Ordinary Least Squares (OLS)** for baseline inference.
 - **Elastic Net (LASSO/Ridge)** for feature selection and regularization.
 
 
